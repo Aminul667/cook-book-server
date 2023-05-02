@@ -1,0 +1,50 @@
+[
+    {
+        "chef_id": 1,
+        "chef_picture": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "chef_name": "John Smith",
+        "experience": "10 years",
+        "recipes": 3,
+        "likes": 10000
+    },
+    {
+        "chef_id": 2,
+        "chef_picture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "chef_name": "John Smith",
+        "experience": "10 years",
+        "recipes": 3,
+        "likes": 10000
+    },
+    {
+        "chef_id": 3,
+        "chef_picture": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "chef_name": "John Smith",
+        "experience": "10 years",
+        "recipes": 3,
+        "likes": 10000
+    },
+    {
+        "chef_id": 4,
+        "chef_picture": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "chef_name": "John Smith",
+        "experience": "10 years",
+        "recipes": 3,
+        "likes": 10000
+    },
+    {
+        "chef_id": 5,
+        "chef_picture": "https://plus.unsplash.com/premium_photo-1673830185119-71299fe32751?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjV8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "chef_name": "John Smith",
+        "experience": "10 years",
+        "recipes": 3,
+        "likes": 10000
+    },
+    {
+        "chef_id": 6,
+        "chef_picture": "https://images.unsplash.com/photo-1611657365907-1ca5d9799f59?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjl8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "chef_name": "John Smith",
+        "experience": "10 years",
+        "recipes": 3,
+        "likes": 10000
+    }
+]
