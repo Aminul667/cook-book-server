@@ -1,0 +1,26 @@
+[
+    {
+        "recipe_id": 10,
+        "name": "Chicken Biriyani",
+        "photo": "https://images.unsplash.com/photo-1599043513900-ed6fe01d3833?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y2hpY2tlbiUyMGJpcnlhbml8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "ingredients": "Spaghetti (400g), Pancetta (150g), Parmesan cheese (100g), Eggs (2), Garlic (2 cloves), Black pepper (to taste), Salt (to taste)",
+        "method": "Cook spaghetti in salted boiling water for 8-10 minutes, until al dente. While spaghetti is cooking, cut pancetta into small cubes and cook in a pan over medium heat until crispy. Mince garlic and add it to the pancetta pan. Cook for 1-2 minutes, until fragrant. In a bowl, beat eggs with grated parmesan cheese, black pepper, and a pinch of salt. When spaghetti is cooked, drain it and add it to the pancetta pan. Toss spaghetti with pancetta and garlic. Remove the pan from heat and add the egg mixture to the spaghetti. Toss everything quickly, so the eggs don't scramble. Serve immediately, with more grated parmesan cheese and black pepper on top.",
+        "rating": 4.5
+    },
+    {
+        "recipe_id": 20,
+        "name": "Beef Kala Vuna",
+        "photo": "https://static.wixstatic.com/media/05c508_5cf0028922b34244a5913784d2e337c9~mv2_d_2166_1282_s_2.jpg/v1/fit/w_1000%2Ch_1000%2Cal_c%2Cq_80,enc_auto/file.jpg",
+        "ingredients": "Spaghetti (400g), Pancetta (150g), Parmesan cheese (100g), Eggs (2), Garlic (2 cloves), Black pepper (to taste), Salt (to taste)",
+        "method": "Cook spaghetti in salted boiling water for 8-10 minutes, until al dente. While spaghetti is cooking, cut pancetta into small cubes and cook in a pan over medium heat until crispy. Mince garlic and add it to the pancetta pan. Cook for 1-2 minutes, until fragrant. In a bowl, beat eggs with grated parmesan cheese, black pepper, and a pinch of salt. When spaghetti is cooked, drain it and add it to the pancetta pan. Toss spaghetti with pancetta and garlic. Remove the pan from heat and add the egg mixture to the spaghetti. Toss everything quickly, so the eggs don't scramble. Serve immediately, with more grated parmesan cheese and black pepper on top.",
+        "rating": 4.5
+    },
+    {
+        "recipe_id": 30,
+        "name": "Chicken Korma",
+        "photo": "https://i.ndtvimg.com/i/2016-10/chicken-korma_650x400_51475662188.jpg",
+        "ingredients": "Spaghetti (400g), Pancetta (150g), Parmesan cheese (100g), Eggs (2), Garlic (2 cloves), Black pepper (to taste), Salt (to taste)",
+        "method": "Cook spaghetti in salted boiling water for 8-10 minutes, until al dente. While spaghetti is cooking, cut pancetta into small cubes and cook in a pan over medium heat until crispy. Mince garlic and add it to the pancetta pan. Cook for 1-2 minutes, until fragrant. In a bowl, beat eggs with grated parmesan cheese, black pepper, and a pinch of salt. When spaghetti is cooked, drain it and add it to the pancetta pan. Toss spaghetti with pancetta and garlic. Remove the pan from heat and add the egg mixture to the spaghetti. Toss everything quickly, so the eggs don't scramble. Serve immediately, with more grated parmesan cheese and black pepper on top.",
+        "rating": 4.5
+    }
+]
