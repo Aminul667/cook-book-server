@@ -22,5 +22,13 @@
         "ingredients": "Spaghetti (400g), Pancetta (150g), Parmesan cheese (100g), Eggs (2), Garlic (2 cloves), Black pepper (to taste), Salt (to taste)",
         "method": "Cook spaghetti in salted boiling water for 8-10 minutes, until al dente. While spaghetti is cooking, cut pancetta into small cubes and cook in a pan over medium heat until crispy. Mince garlic and add it to the pancetta pan. Cook for 1-2 minutes, until fragrant. In a bowl, beat eggs with grated parmesan cheese, black pepper, and a pinch of salt. When spaghetti is cooked, drain it and add it to the pancetta pan. Toss spaghetti with pancetta and garlic. Remove the pan from heat and add the egg mixture to the spaghetti. Toss everything quickly, so the eggs don't scramble. Serve immediately, with more grated parmesan cheese and black pepper on top.",
         "rating": 4.5
+    },
+    {
+        "recipe_id": 40,
+        "name": "Chicken Roast",
+        "photo": "https://i.redd.it/5wslboacvm561.jpg",
+        "ingredients": "Spaghetti (400g), Pancetta (150g), Parmesan cheese (100g), Eggs (2), Garlic (2 cloves), Black pepper (to taste), Salt (to taste)",
+        "method": "Cook spaghetti in salted boiling water for 8-10 minutes, until al dente. While spaghetti is cooking, cut pancetta into small cubes and cook in a pan over medium heat until crispy. Mince garlic and add it to the pancetta pan. Cook for 1-2 minutes, until fragrant. In a bowl, beat eggs with grated parmesan cheese, black pepper, and a pinch of salt. When spaghetti is cooked, drain it and add it to the pancetta pan. Toss spaghetti with pancetta and garlic. Remove the pan from heat and add the egg mixture to the spaghetti. Toss everything quickly, so the eggs don't scramble. Serve immediately, with more grated parmesan cheese and black pepper on top.",
+        "rating": 4.5
     }
 ]
