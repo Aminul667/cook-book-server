@@ -18,6 +18,12 @@
         "recipe_name": "Chicken Korma"
     },
     {
+        "chef_id": 1,
+        "description": "This is a hearty Chicken Korma recipe that is perfect for cold winter days.",
+        "recipe_id": 104,
+        "recipe_name": "Rui Fish Curry"
+    },
+    {
         "chef_id": 2,
         "description": "This is a classic spaghetti recipe that has been passed down in my family for generations.",
         "recipe_id": 10,
@@ -40,6 +46,12 @@
         "description": "This is a hearty Chicken Korma recipe that is perfect for cold winter days.",
         "recipe_id": 40,
         "recipe_name": "Chicken Roast"
+    },
+    {
+        "chef_id": 2,
+        "description": "This is a hearty Chicken Korma recipe that is perfect for cold winter days.",
+        "recipe_id": 205,
+        "recipe_name": "Shorshe Ilish"
     },
     {
         "chef_id": 3,

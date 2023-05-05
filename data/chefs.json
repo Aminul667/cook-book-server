@@ -5,7 +5,7 @@
         "chef_name": "Nayeem Ashraf",
         "description": "In Bangladesh, it is traditional for women to cook at home while men go to work. It’s almost frowned upon for men to be in the kitchen… Growing up, Chef Nayeem loved watching raw ingredients transform into stunning, delicious meals. He saw how much his mom loved to be in the kitchen, and he wanted to join in on the fun. Due to the tradition of women being in the kitchen, Chef Nayeem’s father wasn’t entirely on-board with the idea of him participating in the “kitchen chores”.",
         "experience": "10 years",
-        "recipes": 3,
+        "recipes": 4,
         "likes": 10000
     },
     {
@@ -14,7 +14,7 @@
         "chef_name": "Kishwar Chowdhury",
         "description": "With dreams of sharing Bengali cuisine with Australia, Kishwar Chowdhury admits food is at the heart of her large Bangladeshi family. Having lived on three different continents, Kishwar’s knowledge of mixing spices and understanding ingredients from across the globe, gives her an edge in the MasterChef kitchen.",
         "experience": "10 years",
-        "recipes": 3,
+        "recipes": 5,
         "likes": 10000
     },
     {
@@ -39,7 +39,7 @@
         "chef_id": 5,
         "chef_picture": "https://media.cntraveller.in/wp-content/uploads/2017/02/Vineet-Bhatia.jpg",
         "chef_name": "Atul Kochhar",
-        "description": "a professional cook who specializes in Bangladeshi cuisine and is trained in the preparation of a variety of dishes from different regions of Bangladesh",
+        "description": "Atul Kochhar is an Bangladeshi-born, British-based chef and television personality. Kochhar was one of the first two Bangladeshi chefs to receive a Michelin star, awarded in London in 2001 whilst at Tamarind. He opened his own restaurant Benares, which won him a second Michelin star in 2007.",
         "experience": "10 years",
         "recipes": 3,
         "likes": 10000
@@ -48,7 +48,7 @@
         "chef_id": 6,
         "chef_picture": "https://media.cntraveller.in/wp-content/uploads/2017/02/Farrokh-Khambata.jpg",
         "chef_name": "Amir Hossain",
-        "description": " a professional cook who specializes in Bangladeshi cuisine and is trained in the preparation of a variety of dishes from different regions of Bangladesh",
+        "description": "A professional cook who specializes in Bangladeshi cuisine and is trained in the preparation of a variety of dishes from different regions of Bangladesh. A professional cook who specializes in Bangladeshi cuisine and is trained in the preparation of a variety of dishes from different regions of Bangladesh",
         "experience": "10 years",
         "recipes": 3,
         "likes": 10000
